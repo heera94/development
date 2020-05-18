@@ -1,0 +1,38 @@
+.col-form-label{
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: smaller!important    ;
+}
+.form-control{
+    border-radius: 0px!important;
+    border: 1px solid #c7c7c7!important;
+}
+legend{
+    font-size: 1rem;
+    font-size: 16px!important;
+    font-weight: 400;
+    color: #197896 !important;
+    margin-top: 10px!important;
+}
+fieldset{
+    margin-top: 17px!important;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 3px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }

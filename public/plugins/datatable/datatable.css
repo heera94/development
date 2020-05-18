@@ -1,0 +1,6 @@
+.dataTable th:first-child {
+    width: 10px !important;
+}
+.dataTable th:last-child {
+    width: 90px !important;
+}

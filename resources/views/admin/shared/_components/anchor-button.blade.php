@@ -1,0 +1,1 @@
+<a href="{{(! empty($url) ? $url : '#')}}" class="btn btn-sm btn-danger btn-loader" data-toggle="tooltip" data-placement="top" title="Create new"> {!!(! empty($buttonName)) ? $buttonName : '<i class="fas fa-plus"></i> Add new' !!}</a>

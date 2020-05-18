@@ -1,0 +1,11 @@
+.user-profile-img {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border-radius: 12rem;
+  background: #a7a7a7;
+  object-fit: cover;
+}
+#preview-crop-image {
+  margin: auto;
+}
